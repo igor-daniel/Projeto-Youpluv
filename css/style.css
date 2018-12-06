@@ -37,6 +37,8 @@ section{
     width: 140px;
     height: 150px;
     margin-top: 160px;
+
+    box-shadow: 5px 5px 3px ;
     
 }
 /*#home {
@@ -115,8 +117,71 @@ justify-content: space-around;
     margin-top: 70px;
 }
 
-/*the end*/
 
+/*the end*/
+/*inicio do crie*/
+
+.txth1{
+   
+}
+.videoetuto{
+    display: flex;
+    justify-content: space-around;
+}
+.crie p {
+    font-family: Glacial;
+    font-size: 19px;
+    color: #fff;
+}
+.numero1{
+    background-color: #00c9e5;
+    width: 400px;
+    box-shadow: -1px +5px 10px;
+    margin-top: 40px;
+   
+}
+
+.numero2{
+    background-color: #00aac2;
+    box-shadow: -1px +5px 7px;
+    width: 400px;
+    margin-top: 5px;
+}
+
+.numero3{
+    background-color: #007c8e;
+    width: 400px;
+    box-shadow: -1px +5px 7px;
+    margin-top: 5px;
+}
+
+.numero4{
+    background-color: #196584;
+    width: 400px;
+    box-shadow: -1px +5px 7px;
+    margin-top: 5px;
+
+}
+
+.numero5{
+    background-color: #134e66;
+    width: 400px;
+    box-shadow: -1px +5px 7px;
+    margin-top: 5px;
+   
+}
+
+.blocos1{
+    margin-top: 40px;
+    background-image: url(../img/background-crie.jpg); 
+    background-size: cover;
+}
+.video {
+    margin-top: 100px;
+    margin-bottom: 30px;
+}
+
+    /*the end*/
 
 /*início do botão*/
  ul{
